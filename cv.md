@@ -34,3 +34,19 @@ South Federal University> Taganrog Radio Techological University, faculty of inf
 -Free-courses GLO-academy, web-start and intensives 
 -Free-intensives Skillfactory
 -Free-course Alexander Luschenko, HTML,JS
+
+## Skills
+
+* JavaScript
+* GIT  
+* PHP, Wordpress
+* Bootstrap
+
+## Code examples
+
+ [Github @velichkoroman](https://github.com/velichkoroman)
+ [Github @Roman-Vel](https://github.com/roman-vel)
+
+## English level between B1 and B2
+*By efset test.*
+
