@@ -1,3 +1,6 @@
+Links: 
+- GIT-MARKDOWN
+  - https://velichkoroman.github.io/rsschool-cv/cv
 
-https://velichkoroman.github.io/rsschool-cv/cv
-https://velichkoroman.github.io/rsschool-cv/
+- RSSCHOOL-CV-HTML
+  - https://velichkoroman.github.io/rsschool-cv/
