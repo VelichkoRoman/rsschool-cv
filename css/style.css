@@ -28,6 +28,9 @@ h3 {
 ul {
   padding: 0;
 }
+.bottom-row li {
+  list-style: none;
+}
 .container {
   padding-top: 50px;
 }
