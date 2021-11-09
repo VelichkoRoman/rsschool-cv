@@ -1,0 +1,116 @@
+.bold () {
+    font-weight: bold;
+    color: #BFB363;
+    text-transform: uppercase;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: "Open Sans", "Tahoma", sans-serif;
+    text-align: left;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+    font-size: 3em;
+}
+
+h2,
+h3 {
+    .bold ();
+}
+
+p {
+    padding: 0;
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+ul {
+    padding: 0;
+}
+
+.bottom-row {
+    li {
+        list-style: none;
+    }
+}
+
+.container {
+    padding-top: 50px;
+}
+
+.contacts {
+    &-photo {
+        float: left;
+        margin-right: 30px;
+    }
+
+    &__img {
+        border-radius: 40px;
+        border: 3px solid green;
+        box-shadow: 0 0 7px #666;
+    }
+
+    p {
+        position: relative;
+        display: inline-block;
+
+        &::after {
+            content: "";
+            position: absolute;
+            left: 2px;
+            top: 150%;
+            width: 100%;
+            height: 1px;
+            background-color: #c2c2c2;
+        }
+    }
+}
+
+.date {
+    display: inline-block;
+    font-style: italic;
+    font-size: 0.7em;
+}
+
+.description {
+    color: #777777;
+
+    li {
+        list-style: none;
+    }
+
+
+}
+
+.contacts-p,
+.footer {
+    a:nth-child(1) {
+        text-decoration: none;
+        color: #000000;
+    }
+}
+
+.education-courses,
+.skills {
+    li {
+        list-style: disc;
+        margin-left: 22px;
+    }
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
